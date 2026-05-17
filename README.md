@@ -14,7 +14,7 @@ Análise exploratória dos dados públicos de viagens a serviço do governo fede
 
 ### Viagens por cargo público
 
-![Gráfico de barras — viagens por cargo](<img width="1527" height="589" alt="grafico_2025" src="https://github.com/user-attachments/assets/5b501ede-83a4-46b7-b07e-a0eab8130b16" />)
+![Gráfico de barras](grafico_2025.png)
 
 > Cargos com mais de 100.000 viagens estão destacados em vermelho. A categoria "NÃO IDENTIFICADO" lidera com cerca de 300.000 viagens, seguida de "Informações protegidas por sigilo" com aproximadamente 115.000 — o que por si só levanta questionamentos sobre transparência nos dados.
 
@@ -22,7 +22,7 @@ Análise exploratória dos dados públicos de viagens a serviço do governo fede
 
 ### Duração vs Despesas totais — viagens de até 2 dias
 
-![Scatter — duração vs despesas](<img width="1357" height="585" alt="scatter_2025" src="https://github.com/user-attachments/assets/ec5c3594-bc15-4fc7-980b-011adb881976" />)
+![Scatter — duração vs despesas](scatter_2025.png)
 
 > A maioria das viagens curtas tem despesas abaixo de R$ 10.000. Dois pontos se destacam acima de R$ 50.000 com duração de apenas 1 dia — os outliers investigados.
 
